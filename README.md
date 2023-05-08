@@ -82,7 +82,7 @@ To get a local copy up and running, follow these steps.
 4. Open Terminal.
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you of the reposotory.<br>
-``` $ git clone https://github.com/maximoortelli/Portfolio-setup-and-mobile-first.git ```
+``` $ git clone https://github.com/maximoortelli/Project-review.git ```
 
 ### Install
 
